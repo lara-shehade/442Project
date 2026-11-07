@@ -1,0 +1,11 @@
+# Outputs created when the scripts run
+figs/
+figs_1_1/
+figs_1_2/
+figs_part2/
+figs_part3/
+*.zip
+quantized.mat
+run_log.txt
+# MATLAB autosave files
+*.asv
